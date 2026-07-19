@@ -1,0 +1,9 @@
+node_modules
+dist
+updated-accounts.json
+.env
+data
+.data
+task_plan.md
+findings.md
+progress.md
